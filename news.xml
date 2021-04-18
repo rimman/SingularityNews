@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>My Cool Blog</title>
-<link>http://www.yourwebsite.com/</link>
-<description>My latest cool articles</description>
+<title>Singularity Blog</title>
+<link>http://aka.ms/singularity-docs-latest/</link>
+<description>Singularity Blog</description>
 <item>
-<title>Article 3</title>
-<link>example.com/3</link>
-<guid>example.com/3</guid>
-<pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
-<description>My newest article.</description>
+<title>Running inferencing workloads on Singularity</title>
+<link>https://aka.ms/singularity</link>
+<guid>singularity/3</guid>
+<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
+<description>How to run inferencing workloads on Singularity.</description>
 </item>
 <item>
-<title>Article 2</title>
-<link>example.com/2</link>
-<guid>example.com/2</guid>
-<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
-<description>My second article.</description>
+<title>Running training workloads on Singularity</title>
+<link>https://aka.ms/singularity</link>
+<guid>singularity/2</guid>
+<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
+<description>How to run training workloads on Singularity.</description>
 </item>
 <item>
-<title>Article 1</title>
-<link>example.com/1</link>
-<guid> example.com/1</guid>
-<pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
-<description>My first article.</description>
+<title>Singularity Documentation</title>
+<link>https://aka.ms/singularity</link>
+<guid>singularity/1</guid>
+<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
+<description>Singularity docs.</description>
 </item>
 </channel>
 </rss>
