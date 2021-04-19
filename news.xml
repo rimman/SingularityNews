@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>Singularity Blog</title>
-<link>http://aka.ms/singularity-docs-latest/</link>
-<description>Singularity Blog</description>
+<item>
+<title>Singularity Documentation</title>
+<link>https://aka.ms/singularity</link>
+<guid>singularity/1</guid>
+<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
+<description>Singularity docs.</description>
+</item>
 <item>
 <title>Running inferencing workloads on Singularity</title>
 <link>https://aka.ms/singularity</link>
@@ -17,13 +21,6 @@
 <guid>singularity/2</guid>
 <pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
 <description>How to run training workloads on Singularity.</description>
-</item>
-<item>
-<title>Singularity Documentation</title>
-<link>https://aka.ms/singularity</link>
-<guid>singularity/1</guid>
-<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
-<description>Singularity docs.</description>
 </item>
 </channel>
 </rss>
