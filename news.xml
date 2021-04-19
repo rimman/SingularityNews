@@ -13,14 +13,21 @@
 <link>https://aka.ms/singularity</link>
 <guid>singularity/2</guid>
 <pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
-<description>How to run inferencing workloads on Singularity.</description>
+<description>Learn how to run inferencing workloads on Singularity.</description>
 </item>
 <item>
 <title>Running training workloads on Singularity</title>
 <link>https://aka.ms/singularity</link>
 <guid>singularity/1</guid>
 <pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
-<description>How to run training workloads on Singularity.</description>
+<description>Learn how to run training workloads on Singularity.</description>
 </item>
+<item>
+<title>Uploading data to Singularity managed cache/storage containers</title>
+<link>https://aka.ms/singularity</link>
+<guid>singularity/4</guid>
+<pubDate>Mon, 19 Apr 2021 15:10:45 GMT</pubDate>
+<description>Learn how to upload data to managed storage containers on Singularity.</description>
+</item>  
 </channel>
 </rss>
